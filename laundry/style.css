@@ -1,0 +1,28 @@
+/*------Ini Adalah Css Costume Atau Native---*/
+.sukses {
+margin-top: 20px;
+
+ width: 800px;
+ height: 150px;
+ background: #90EE90;
+ font-family: sans-serif;
+ border-radius: 5px;
+
+}
+
+.sukses h2{
+  padding-top: 10px;
+}
+
+a .link{
+  text-decoration: none;
+}
+
+/* style.css */
+
+body {
+  background-image: url(img/bg.jpg);
+  background-size: cover; /* untuk mengisi seluruh area background */
+  background-position: center; /* untuk menengahkan gambar background */
+  background-repeat: no-repeat; /* agar gambar background tidak diulang */
+}
